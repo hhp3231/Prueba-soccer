@@ -1,0 +1,244 @@
+{
+  "participants": [
+    {
+      "email": "sofia.hernandez1@ejemplo.com",
+      "name": "Sofía Hernández",
+      "picks": {
+        "roundOf32": [],
+        "roundOf16": [],
+        "quarterfinals": [],
+        "semifinals": [],
+        "thirdPlace": [],
+        "final": []
+      }
+    },
+    {
+      "email": "mariana.camacho2@correo.test",
+      "name": "Mariana Camacho",
+      "picks": {
+        "roundOf32": [],
+        "roundOf16": [],
+        "quarterfinals": [],
+        "semifinals": [],
+        "thirdPlace": [],
+        "final": []
+      }
+    },
+    {
+      "email": "sebastian.rodriguez3@correo.test",
+      "name": "Sebastián Rodríguez",
+      "picks": {
+        "roundOf32": [],
+        "roundOf16": [],
+        "quarterfinals": [],
+        "semifinals": [],
+        "thirdPlace": [],
+        "final": []
+      }
+    },
+    {
+      "email": "sofia.rodriguez4@ejemplo.com",
+      "name": "Sofía Rodríguez",
+      "picks": {
+        "roundOf32": [],
+        "roundOf16": [],
+        "quarterfinals": [],
+        "semifinals": [],
+        "thirdPlace": [],
+        "final": []
+      }
+    },
+    {
+      "email": "diego.camacho5@demo.local",
+      "name": "Diego Camacho",
+      "picks": {
+        "roundOf32": [],
+        "roundOf16": [],
+        "quarterfinals": [],
+        "semifinals": [],
+        "thirdPlace": [],
+        "final": []
+      }
+    },
+    {
+      "email": "sebastian.castro6@ejemplo.com",
+      "name": "Sebastián Castro",
+      "picks": {
+        "roundOf32": [],
+        "roundOf16": [],
+        "quarterfinals": [],
+        "semifinals": [],
+        "thirdPlace": [],
+        "final": []
+      }
+    },
+    {
+      "email": "andres.rodriguez7@demo.local",
+      "name": "Andrés Rodríguez",
+      "picks": {
+        "roundOf32": [],
+        "roundOf16": [],
+        "quarterfinals": [],
+        "semifinals": [],
+        "thirdPlace": [],
+        "final": []
+      }
+    },
+    {
+      "email": "felipe.garcia8@futbolfans.co",
+      "name": "Felipe García",
+      "picks": {
+        "roundOf32": [],
+        "roundOf16": [],
+        "quarterfinals": [],
+        "semifinals": [],
+        "thirdPlace": [],
+        "final": []
+      }
+    },
+    {
+      "email": "paula.fernandez9@ejemplo.com",
+      "name": "Paula Fernández",
+      "picks": {
+        "roundOf32": [],
+        "roundOf16": [],
+        "quarterfinals": [],
+        "semifinals": [],
+        "thirdPlace": [],
+        "final": []
+      }
+    },
+    {
+      "email": "veronica.hernandez10@ejemplo.com",
+      "name": "Verónica Hernández",
+      "picks": {
+        "roundOf32": [],
+        "roundOf16": [],
+        "quarterfinals": [],
+        "semifinals": [],
+        "thirdPlace": [],
+        "final": []
+      }
+    },
+    {
+      "email": "carlos.cortes11@correo.test",
+      "name": "Carlos Cortés",
+      "picks": {
+        "roundOf32": [],
+        "roundOf16": [],
+        "quarterfinals": [],
+        "semifinals": [],
+        "thirdPlace": [],
+        "final": []
+      }
+    },
+    {
+      "email": "sofia.torres12@ejemplo.com",
+      "name": "Sofía Torres",
+      "picks": {
+        "roundOf32": [],
+        "roundOf16": [],
+        "quarterfinals": [],
+        "semifinals": [],
+        "thirdPlace": [],
+        "final": []
+      }
+    },
+    {
+      "email": "julian.hernandez13@ejemplo.com",
+      "name": "Julián Hernández",
+      "picks": {
+        "roundOf32": [],
+        "roundOf16": [],
+        "quarterfinals": [],
+        "semifinals": [],
+        "thirdPlace": [],
+        "final": []
+      }
+    },
+    {
+      "email": "carlos.vargas14@ejemplo.com",
+      "name": "Carlos Vargas",
+      "picks": {
+        "roundOf32": [],
+        "roundOf16": [],
+        "quarterfinals": [],
+        "semifinals": [],
+        "thirdPlace": [],
+        "final": []
+      }
+    },
+    {
+      "email": "santiago.guerrero15@futbolfans.co",
+      "name": "Santiago Guerrero",
+      "picks": {
+        "roundOf32": [],
+        "roundOf16": [],
+        "quarterfinals": [],
+        "semifinals": [],
+        "thirdPlace": [],
+        "final": []
+      }
+    },
+    {
+      "email": "adriana.lopez16@correo.test",
+      "name": "Adriana López",
+      "picks": {
+        "roundOf32": [],
+        "roundOf16": [],
+        "quarterfinals": [],
+        "semifinals": [],
+        "thirdPlace": [],
+        "final": []
+      }
+    },
+    {
+      "email": "diana.rojas17@ejemplo.com",
+      "name": "Diana Rojas",
+      "picks": {
+        "roundOf32": [],
+        "roundOf16": [],
+        "quarterfinals": [],
+        "semifinals": [],
+        "thirdPlace": [],
+        "final": []
+      }
+    },
+    {
+      "email": "sofia.sanchez18@demo.local",
+      "name": "Sofía Sánchez",
+      "picks": {
+        "roundOf32": [],
+        "roundOf16": [],
+        "quarterfinals": [],
+        "semifinals": [],
+        "thirdPlace": [],
+        "final": []
+      }
+    },
+    {
+      "email": "sebastian.martinez19@demo.local",
+      "name": "Sebastián Martínez",
+      "picks": {
+        "roundOf32": [],
+        "roundOf16": [],
+        "quarterfinals": [],
+        "semifinals": [],
+        "thirdPlace": [],
+        "final": []
+      }
+    },
+    {
+      "email": "maria.sanchez20@futbolfans.co",
+      "name": "María Sánchez",
+      "picks": {
+        "roundOf32": [],
+        "roundOf16": [],
+        "quarterfinals": [],
+        "semifinals": [],
+        "thirdPlace": [],
+        "final": []
+      }
+    }
+  ]
+}
