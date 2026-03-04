@@ -1,0 +1,142 @@
+[
+  {
+    "id": 1,
+    "fecha": "2026-06-10",
+    "equipo1": "Equipo_1",
+    "equipo2": "Equipo_2",
+    "fase": "Grupos"
+  },
+  {
+    "id": 2,
+    "fecha": "2026-06-11",
+    "equipo1": "Equipo_3",
+    "equipo2": "Equipo_4",
+    "fase": "Grupos"
+  },
+  {
+    "id": 3,
+    "fecha": "2026-06-11",
+    "equipo1": "Equipo_5",
+    "equipo2": "Equipo_6",
+    "fase": "Grupos"
+  },
+  {
+    "id": 4,
+    "fecha": "2026-06-12",
+    "equipo1": "Equipo_7",
+    "equipo2": "Equipo_8",
+    "fase": "Grupos"
+  },
+  {
+    "id": 5,
+    "fecha": "2026-06-12",
+    "equipo1": "Equipo_9",
+    "equipo2": "Equipo_10",
+    "fase": "Grupos"
+  },
+  {
+    "id": 6,
+    "fecha": "2026-06-13",
+    "equipo1": "Equipo_11",
+    "equipo2": "Equipo_12",
+    "fase": "Grupos"
+  },
+  {
+    "id": 7,
+    "fecha": "2026-06-13",
+    "equipo1": "Equipo_13",
+    "equipo2": "Equipo_14",
+    "fase": "Grupos"
+  },
+  {
+    "id": 8,
+    "fecha": "2026-06-14",
+    "equipo1": "Equipo_15",
+    "equipo2": "Equipo_16",
+    "fase": "Grupos"
+  },
+  {
+    "id": 9,
+    "fecha": "2026-06-14",
+    "equipo1": "Equipo_17",
+    "equipo2": "Equipo_18",
+    "fase": "Grupos"
+  },
+  {
+    "id": 10,
+    "fecha": "2026-06-15",
+    "equipo1": "Equipo_19",
+    "equipo2": "Equipo_20",
+    "fase": "Grupos"
+  },
+  {
+    "id": 11,
+    "fecha": "2026-06-15",
+    "equipo1": "Equipo_21",
+    "equipo2": "Equipo_22",
+    "fase": "Grupos"
+  },
+  {
+    "id": 12,
+    "fecha": "2026-06-16",
+    "equipo1": "Equipo_23",
+    "equipo2": "Equipo_24",
+    "fase": "Grupos"
+  },
+  {
+    "id": 13,
+    "fecha": "2026-06-16",
+    "equipo1": "Equipo_25",
+    "equipo2": "Equipo_26",
+    "fase": "Grupos"
+  },
+  {
+    "id": 14,
+    "fecha": "2026-06-17",
+    "equipo1": "Equipo_27",
+    "equipo2": "Equipo_28",
+    "fase": "Grupos"
+  },
+  {
+    "id": 15,
+    "fecha": "2026-06-17",
+    "equipo1": "Equipo_29",
+    "equipo2": "Equipo_30",
+    "fase": "Grupos"
+  },
+  {
+    "id": 16,
+    "fecha": "2026-06-18",
+    "equipo1": "Equipo_31",
+    "equipo2": "Equipo_32",
+    "fase": "Grupos"
+  },
+  {
+    "id": 17,
+    "fecha": "2026-06-18",
+    "equipo1": "Equipo_33",
+    "equipo2": "Equipo_34",
+    "fase": "Grupos"
+  },
+  {
+    "id": 18,
+    "fecha": "2026-06-19",
+    "equipo1": "Equipo_35",
+    "equipo2": "Equipo_36",
+    "fase": "Grupos"
+  },
+  {
+    "id": 19,
+    "fecha": "2026-06-19",
+    "equipo1": "Equipo_37",
+    "equipo2": "Equipo_38",
+    "fase": "Grupos"
+  },
+  {
+    "id": 20,
+    "fecha": "2026-06-20",
+    "equipo1": "Equipo_39",
+    "equipo2": "Equipo_40",
+    "fase": "Grupos"
+  }
+]
