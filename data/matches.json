@@ -1,0 +1,364 @@
+{
+  "matches": [
+    {
+      "matchId": 1,
+      "homeTeam": "Hora de la última modificación",
+      "awayTeam": "México"
+    },
+    {
+      "matchId": 2,
+      "homeTeam": "Sudáfrica",
+      "awayTeam": "República de Corea"
+    },
+    {
+      "matchId": 3,
+      "homeTeam": "Dinamarca/Macedonia/República Checa/Irlanda",
+      "awayTeam": "Canadá"
+    },
+    {
+      "matchId": 4,
+      "homeTeam": "Italia/Nigeria/Gales/Bosnia",
+      "awayTeam": "Estados Unidos"
+    },
+    {
+      "matchId": 5,
+      "homeTeam": "Paraguay",
+      "awayTeam": "Catar"
+    },
+    {
+      "matchId": 6,
+      "homeTeam": "Suiza",
+      "awayTeam": "Brasil"
+    },
+    {
+      "matchId": 7,
+      "homeTeam": "Marruecos",
+      "awayTeam": "Haití"
+    },
+    {
+      "matchId": 8,
+      "homeTeam": "Escocia",
+      "awayTeam": "Australia"
+    },
+    {
+      "matchId": 9,
+      "homeTeam": "Turquía/Rumania/Eslovaquia/Kosovo",
+      "awayTeam": "Alemania"
+    },
+    {
+      "matchId": 10,
+      "homeTeam": "Curazao",
+      "awayTeam": "Países Bajos"
+    },
+    {
+      "matchId": 11,
+      "homeTeam": "Japón",
+      "awayTeam": "Costa de Marfil"
+    },
+    {
+      "matchId": 12,
+      "homeTeam": "Ecuador",
+      "awayTeam": "Ucrania/Suecia/Polonia/Albania"
+    },
+    {
+      "matchId": 13,
+      "homeTeam": "Túnez",
+      "awayTeam": "España"
+    },
+    {
+      "matchId": 14,
+      "homeTeam": "Cabo Verde",
+      "awayTeam": "Bélgica"
+    },
+    {
+      "matchId": 15,
+      "homeTeam": "Egipto",
+      "awayTeam": "Arabia Saudí"
+    },
+    {
+      "matchId": 16,
+      "homeTeam": "Uruguay",
+      "awayTeam": "Irán"
+    },
+    {
+      "matchId": 17,
+      "homeTeam": "Nueva Zelanda",
+      "awayTeam": "Francia"
+    },
+    {
+      "matchId": 18,
+      "homeTeam": "Senegal",
+      "awayTeam": "Irak/Bolivia/Surinam"
+    },
+    {
+      "matchId": 19,
+      "homeTeam": "Noruega",
+      "awayTeam": "Argentina"
+    },
+    {
+      "matchId": 20,
+      "homeTeam": "Argelia",
+      "awayTeam": "Austria"
+    },
+    {
+      "matchId": 21,
+      "homeTeam": "Jordania",
+      "awayTeam": "Portugal"
+    },
+    {
+      "matchId": 22,
+      "homeTeam": "Jamaica/RD de Congo/Nueva Caledonia",
+      "awayTeam": "Inglaterra"
+    },
+    {
+      "matchId": 23,
+      "homeTeam": "Croacia",
+      "awayTeam": "Ghana"
+    },
+    {
+      "matchId": 24,
+      "homeTeam": "Panamá",
+      "awayTeam": "Uzbekistán"
+    },
+    {
+      "matchId": 25,
+      "homeTeam": "Colombia",
+      "awayTeam": "Dinamarca/Macedonia/República Checa/Irlanda2"
+    },
+    {
+      "matchId": 26,
+      "homeTeam": "Sudáfrica2",
+      "awayTeam": "Suiza2"
+    },
+    {
+      "matchId": 27,
+      "homeTeam": "Italia/Irlanda/Gales/Bosnia",
+      "awayTeam": "Canadá2"
+    },
+    {
+      "matchId": 28,
+      "homeTeam": "Catar2",
+      "awayTeam": "México2"
+    },
+    {
+      "matchId": 29,
+      "homeTeam": "República de Corea2",
+      "awayTeam": "Estados Unidos2"
+    },
+    {
+      "matchId": 30,
+      "homeTeam": "Australia2",
+      "awayTeam": "Escocia2"
+    },
+    {
+      "matchId": 31,
+      "homeTeam": "Marruecos2",
+      "awayTeam": "Brasil2"
+    },
+    {
+      "matchId": 32,
+      "homeTeam": "Haití2",
+      "awayTeam": "Turquía/Rumania/Eslovaquia/Kosovo2"
+    },
+    {
+      "matchId": 33,
+      "homeTeam": "Paraguay2",
+      "awayTeam": "Países Bajos2"
+    },
+    {
+      "matchId": 34,
+      "homeTeam": "Ucrania/Suecia/Polonia/Albania2",
+      "awayTeam": "Alemania2"
+    },
+    {
+      "matchId": 35,
+      "homeTeam": "Costa de Marfil2",
+      "awayTeam": "Ecuador2"
+    },
+    {
+      "matchId": 36,
+      "homeTeam": "Curazao2",
+      "awayTeam": "Túnez2"
+    },
+    {
+      "matchId": 37,
+      "homeTeam": "Japón2",
+      "awayTeam": "España2"
+    },
+    {
+      "matchId": 38,
+      "homeTeam": "Arabia Saudí2",
+      "awayTeam": "Bélgica2"
+    },
+    {
+      "matchId": 39,
+      "homeTeam": "Irán2",
+      "awayTeam": "Uruguay2"
+    },
+    {
+      "matchId": 40,
+      "homeTeam": "Cabo Verde2",
+      "awayTeam": "Nueva Zelanda2"
+    },
+    {
+      "matchId": 41,
+      "homeTeam": "Egipto2",
+      "awayTeam": "Argentina2"
+    },
+    {
+      "matchId": 42,
+      "homeTeam": "Austria",
+      "awayTeam": "Francia2"
+    },
+    {
+      "matchId": 43,
+      "homeTeam": "Irak/Bolivia/Surinam2",
+      "awayTeam": "Noruega2"
+    },
+    {
+      "matchId": 44,
+      "homeTeam": "Senegal2",
+      "awayTeam": "Jordania2"
+    },
+    {
+      "matchId": 45,
+      "homeTeam": "Argelia2",
+      "awayTeam": "Portugal2"
+    },
+    {
+      "matchId": 46,
+      "homeTeam": "Uzbekistán2",
+      "awayTeam": "Inglaterra2"
+    },
+    {
+      "matchId": 47,
+      "homeTeam": "Ghana2",
+      "awayTeam": "Panamá2"
+    },
+    {
+      "matchId": 48,
+      "homeTeam": "Croacia2",
+      "awayTeam": "Colombia2"
+    },
+    {
+      "matchId": 49,
+      "homeTeam": "RD de Congo/Jamaica/Nueva Caledonia",
+      "awayTeam": "Suiza3"
+    },
+    {
+      "matchId": 50,
+      "homeTeam": "Canadá3",
+      "awayTeam": "Italia/Irlanda del Norte/Gales/Bosnia"
+    },
+    {
+      "matchId": 51,
+      "homeTeam": "Catar3",
+      "awayTeam": "Escocia3"
+    },
+    {
+      "matchId": 52,
+      "homeTeam": "Brasil3",
+      "awayTeam": "Marruecos3"
+    },
+    {
+      "matchId": 53,
+      "homeTeam": "Haití3",
+      "awayTeam": "Dinamarca/Macedonia/República Checa/Irlanda3"
+    },
+    {
+      "matchId": 54,
+      "homeTeam": "México3",
+      "awayTeam": "Sudáfrica3"
+    },
+    {
+      "matchId": 55,
+      "homeTeam": "República de Corea3",
+      "awayTeam": "Curazao3"
+    },
+    {
+      "matchId": 56,
+      "homeTeam": "Costa de Marfil3",
+      "awayTeam": "Ecuador3"
+    },
+    {
+      "matchId": 57,
+      "homeTeam": "Alemania3",
+      "awayTeam": "Japón3"
+    },
+    {
+      "matchId": 58,
+      "homeTeam": "Ucrania/Suecia/Polonia/Albania3",
+      "awayTeam": "Túnez3"
+    },
+    {
+      "matchId": 59,
+      "homeTeam": "Países Bajos3",
+      "awayTeam": "Turquía/Rumania/Eslovaquia/Kosovo3"
+    },
+    {
+      "matchId": 60,
+      "homeTeam": "Estados Unidos3",
+      "awayTeam": "Paraguay3"
+    },
+    {
+      "matchId": 61,
+      "homeTeam": "Australia3",
+      "awayTeam": "Noruega3"
+    },
+    {
+      "matchId": 62,
+      "homeTeam": "Francia3",
+      "awayTeam": "Senegal3"
+    },
+    {
+      "matchId": 63,
+      "homeTeam": "Irak/Bolivia/Surinam3",
+      "awayTeam": "Cabo Verde3"
+    },
+    {
+      "matchId": 64,
+      "homeTeam": "Arabia Saudí3",
+      "awayTeam": "Uruguay3"
+    },
+    {
+      "matchId": 65,
+      "homeTeam": "España3",
+      "awayTeam": "Egipto3"
+    },
+    {
+      "matchId": 66,
+      "homeTeam": "Irán3",
+      "awayTeam": "Nueva Zelanda3"
+    },
+    {
+      "matchId": 67,
+      "homeTeam": "Bélgica3",
+      "awayTeam": "Panamá3"
+    },
+    {
+      "matchId": 68,
+      "homeTeam": "Inglaterra3",
+      "awayTeam": "Croacia3"
+    },
+    {
+      "matchId": 69,
+      "homeTeam": "Ghana3",
+      "awayTeam": "Colombia3"
+    },
+    {
+      "matchId": 70,
+      "homeTeam": "Portugal3",
+      "awayTeam": "RD de Congo/Jamaica/Nueva Caledonia2"
+    },
+    {
+      "matchId": 71,
+      "homeTeam": "Uzbekistán3",
+      "awayTeam": "Argelia3"
+    },
+    {
+      "matchId": 72,
+      "homeTeam": "Austria2",
+      "awayTeam": "Jordania3"
+    }
+  ]
+}
