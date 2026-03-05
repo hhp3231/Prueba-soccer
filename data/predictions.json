@@ -6,7 +6,7 @@
       "predictions": [
         {
           "matchId": 1,
-          "homeGoalsPred": null,
+          "homeGoalsPred": 1,
           "awayGoalsPred": 3
         },
         {
@@ -102,7 +102,7 @@
         {
           "matchId": 20,
           "homeGoalsPred": 1,
-          "awayGoalsPred": null
+          "awayGoalsPred": 1
         },
         {
           "matchId": 21,
@@ -211,7 +211,7 @@
         },
         {
           "matchId": 42,
-          "homeGoalsPred": null,
+          "homeGoalsPred": 4,
           "awayGoalsPred": 3
         },
         {
@@ -468,7 +468,7 @@
         {
           "matchId": 20,
           "homeGoalsPred": 3,
-          "awayGoalsPred": null
+          "awayGoalsPred": 2
         },
         {
           "matchId": 21,
@@ -577,7 +577,7 @@
         },
         {
           "matchId": 42,
-          "homeGoalsPred": null,
+          "homeGoalsPred": 0,
           "awayGoalsPred": 5
         },
         {
@@ -834,7 +834,7 @@
         {
           "matchId": 20,
           "homeGoalsPred": 4,
-          "awayGoalsPred": null
+          "awayGoalsPred": 2
         },
         {
           "matchId": 21,
@@ -943,7 +943,7 @@
         },
         {
           "matchId": 42,
-          "homeGoalsPred": null,
+          "homeGoalsPred": 1,
           "awayGoalsPred": 4
         },
         {
@@ -1200,7 +1200,7 @@
         {
           "matchId": 20,
           "homeGoalsPred": 0,
-          "awayGoalsPred": null
+          "awayGoalsPred": 3
         },
         {
           "matchId": 21,
@@ -1309,7 +1309,7 @@
         },
         {
           "matchId": 42,
-          "homeGoalsPred": null,
+          "homeGoalsPred": 1,
           "awayGoalsPred": 1
         },
         {
@@ -1566,7 +1566,7 @@
         {
           "matchId": 20,
           "homeGoalsPred": 5,
-          "awayGoalsPred": null
+          "awayGoalsPred": 1
         },
         {
           "matchId": 21,
@@ -1675,7 +1675,7 @@
         },
         {
           "matchId": 42,
-          "homeGoalsPred": null,
+          "homeGoalsPred": 1,
           "awayGoalsPred": 2
         },
         {
@@ -1932,7 +1932,7 @@
         {
           "matchId": 20,
           "homeGoalsPred": 1,
-          "awayGoalsPred": null
+          "awayGoalsPred": 1
         },
         {
           "matchId": 21,
@@ -2041,7 +2041,7 @@
         },
         {
           "matchId": 42,
-          "homeGoalsPred": null,
+          "homeGoalsPred": 1,
           "awayGoalsPred": 3
         },
         {
@@ -2298,7 +2298,7 @@
         {
           "matchId": 20,
           "homeGoalsPred": 1,
-          "awayGoalsPred": null
+          "awayGoalsPred": 1
         },
         {
           "matchId": 21,
@@ -2407,7 +2407,7 @@
         },
         {
           "matchId": 42,
-          "homeGoalsPred": null,
+          "homeGoalsPred": 1,
           "awayGoalsPred": 4
         },
         {
@@ -2664,7 +2664,7 @@
         {
           "matchId": 20,
           "homeGoalsPred": 3,
-          "awayGoalsPred": null
+          "awayGoalsPred": 1
         },
         {
           "matchId": 21,
@@ -2773,7 +2773,7 @@
         },
         {
           "matchId": 42,
-          "homeGoalsPred": null,
+          "homeGoalsPred": 1,
           "awayGoalsPred": 3
         },
         {
@@ -3030,7 +3030,7 @@
         {
           "matchId": 20,
           "homeGoalsPred": 2,
-          "awayGoalsPred": null
+          "awayGoalsPred": 1
         },
         {
           "matchId": 21,
@@ -3139,7 +3139,7 @@
         },
         {
           "matchId": 42,
-          "homeGoalsPred": null,
+          "homeGoalsPred": 1,
           "awayGoalsPred": 4
         },
         {
@@ -3396,7 +3396,7 @@
         {
           "matchId": 20,
           "homeGoalsPred": 3,
-          "awayGoalsPred": null
+          "awayGoalsPred": 1
         },
         {
           "matchId": 21,
@@ -3505,7 +3505,7 @@
         },
         {
           "matchId": 42,
-          "homeGoalsPred": null,
+          "homeGoalsPred": 1,
           "awayGoalsPred": 1
         },
         {
@@ -3762,7 +3762,7 @@
         {
           "matchId": 20,
           "homeGoalsPred": 1,
-          "awayGoalsPred": null
+          "awayGoalsPred": 1
         },
         {
           "matchId": 21,
@@ -3871,7 +3871,7 @@
         },
         {
           "matchId": 42,
-          "homeGoalsPred": null,
+          "homeGoalsPred": 1,
           "awayGoalsPred": 5
         },
         {
@@ -4128,7 +4128,7 @@
         {
           "matchId": 20,
           "homeGoalsPred": 4,
-          "awayGoalsPred": null
+          "awayGoalsPred": 1
         },
         {
           "matchId": 21,
@@ -4237,7 +4237,7 @@
         },
         {
           "matchId": 42,
-          "homeGoalsPred": null,
+          "homeGoalsPred": 1,
           "awayGoalsPred": 4
         },
         {
@@ -4494,7 +4494,7 @@
         {
           "matchId": 20,
           "homeGoalsPred": 4,
-          "awayGoalsPred": null
+          "awayGoalsPred": 1
         },
         {
           "matchId": 21,
@@ -4603,7 +4603,7 @@
         },
         {
           "matchId": 42,
-          "homeGoalsPred": null,
+          "homeGoalsPred": 1,
           "awayGoalsPred": 0
         },
         {
@@ -4860,7 +4860,7 @@
         {
           "matchId": 20,
           "homeGoalsPred": 5,
-          "awayGoalsPred": null
+          "awayGoalsPred": 1
         },
         {
           "matchId": 21,
@@ -4969,7 +4969,7 @@
         },
         {
           "matchId": 42,
-          "homeGoalsPred": null,
+          "homeGoalsPred": 1,
           "awayGoalsPred": 2
         },
         {
@@ -5226,7 +5226,7 @@
         {
           "matchId": 20,
           "homeGoalsPred": 3,
-          "awayGoalsPred": null
+          "awayGoalsPred": 1
         },
         {
           "matchId": 21,
@@ -5335,7 +5335,7 @@
         },
         {
           "matchId": 42,
-          "homeGoalsPred": null,
+          "homeGoalsPred": 1,
           "awayGoalsPred": 2
         },
         {
@@ -5592,7 +5592,7 @@
         {
           "matchId": 20,
           "homeGoalsPred": 2,
-          "awayGoalsPred": null
+          "awayGoalsPred": 1
         },
         {
           "matchId": 21,
@@ -5701,7 +5701,7 @@
         },
         {
           "matchId": 42,
-          "homeGoalsPred": null,
+          "homeGoalsPred": 1,
           "awayGoalsPred": 2
         },
         {
@@ -5958,7 +5958,7 @@
         {
           "matchId": 20,
           "homeGoalsPred": 2,
-          "awayGoalsPred": null
+          "awayGoalsPred": 1
         },
         {
           "matchId": 21,
@@ -6067,7 +6067,7 @@
         },
         {
           "matchId": 42,
-          "homeGoalsPred": null,
+          "homeGoalsPred": 1,
           "awayGoalsPred": 4
         },
         {
@@ -6324,7 +6324,7 @@
         {
           "matchId": 20,
           "homeGoalsPred": 3,
-          "awayGoalsPred": null
+          "awayGoalsPred": 1
         },
         {
           "matchId": 21,
@@ -6433,7 +6433,7 @@
         },
         {
           "matchId": 42,
-          "homeGoalsPred": null,
+          "homeGoalsPred": 1,
           "awayGoalsPred": 5
         },
         {
@@ -6690,7 +6690,7 @@
         {
           "matchId": 20,
           "homeGoalsPred": 0,
-          "awayGoalsPred": null
+          "awayGoalsPred": 1
         },
         {
           "matchId": 21,
@@ -6799,7 +6799,7 @@
         },
         {
           "matchId": 42,
-          "homeGoalsPred": null,
+          "homeGoalsPred": 1,
           "awayGoalsPred": 3
         },
         {
@@ -7056,7 +7056,7 @@
         {
           "matchId": 20,
           "homeGoalsPred": 4,
-          "awayGoalsPred": null
+          "awayGoalsPred": 1
         },
         {
           "matchId": 21,
@@ -7165,7 +7165,7 @@
         },
         {
           "matchId": 42,
-          "homeGoalsPred": null,
+          "homeGoalsPred": 2,
           "awayGoalsPred": 5
         },
         {
