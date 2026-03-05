@@ -1,0 +1,174 @@
+{
+  "roundOf32": [
+    {
+      "id": "R32-1",
+      "home": "Brasil",
+      "away": "Catar"
+    },
+    {
+      "id": "R32-2",
+      "home": "Escocia",
+      "away": "Irán"
+    },
+    {
+      "id": "R32-3",
+      "home": "Arabia Saudí",
+      "away": "República de Corea"
+    },
+    {
+      "id": "R32-4",
+      "home": "Italia/Nigeria/Gales/Bosnia",
+      "away": "Túnez"
+    },
+    {
+      "id": "R32-5",
+      "home": "Nueva Zelanda",
+      "away": "España"
+    },
+    {
+      "id": "R32-6",
+      "home": "Estados Unidos",
+      "away": "Canadá"
+    },
+    {
+      "id": "R32-7",
+      "home": "Japón",
+      "away": "Sudáfrica"
+    },
+    {
+      "id": "R32-8",
+      "home": "Marruecos",
+      "away": "México"
+    },
+    {
+      "id": "R32-9",
+      "home": "Egipto",
+      "away": "Australia"
+    },
+    {
+      "id": "R32-10",
+      "home": "Turquía/Rumania/Eslovaquia/Kosovo",
+      "away": "Ucrania/Suecia/Polonia/Albania"
+    },
+    {
+      "id": "R32-11",
+      "home": "Costa de Marfil",
+      "away": "Paraguay"
+    },
+    {
+      "id": "R32-12",
+      "home": "Curazao",
+      "away": "Bélgica"
+    },
+    {
+      "id": "R32-13",
+      "home": "Ecuador",
+      "away": "Uruguay"
+    },
+    {
+      "id": "R32-14",
+      "home": "Dinamarca/Macedonia/República Checa/Irlanda",
+      "away": "Países Bajos"
+    },
+    {
+      "id": "R32-15",
+      "home": "Cabo Verde",
+      "away": "Alemania"
+    },
+    {
+      "id": "R32-16",
+      "home": "Haití",
+      "away": "Suiza"
+    }
+  ],
+  "roundOf16": [
+    {
+      "id": "R16-1",
+      "home": "Ganador R32-1",
+      "away": "Ganador R32-2"
+    },
+    {
+      "id": "R16-2",
+      "home": "Ganador R32-3",
+      "away": "Ganador R32-4"
+    },
+    {
+      "id": "R16-3",
+      "home": "Ganador R32-5",
+      "away": "Ganador R32-6"
+    },
+    {
+      "id": "R16-4",
+      "home": "Ganador R32-7",
+      "away": "Ganador R32-8"
+    },
+    {
+      "id": "R16-5",
+      "home": "Ganador R32-9",
+      "away": "Ganador R32-10"
+    },
+    {
+      "id": "R16-6",
+      "home": "Ganador R32-11",
+      "away": "Ganador R32-12"
+    },
+    {
+      "id": "R16-7",
+      "home": "Ganador R32-13",
+      "away": "Ganador R32-14"
+    },
+    {
+      "id": "R16-8",
+      "home": "Ganador R32-15",
+      "away": "Ganador R32-16"
+    }
+  ],
+  "quarterfinals": [
+    {
+      "id": "QF-1",
+      "home": "Ganador R16-1",
+      "away": "Ganador R16-2"
+    },
+    {
+      "id": "QF-2",
+      "home": "Ganador R16-3",
+      "away": "Ganador R16-4"
+    },
+    {
+      "id": "QF-3",
+      "home": "Ganador R16-5",
+      "away": "Ganador R16-6"
+    },
+    {
+      "id": "QF-4",
+      "home": "Ganador R16-7",
+      "away": "Ganador R16-8"
+    }
+  ],
+  "semifinals": [
+    {
+      "id": "SF-1",
+      "home": "Ganador QF-1",
+      "away": "Ganador QF-2"
+    },
+    {
+      "id": "SF-2",
+      "home": "Ganador QF-3",
+      "away": "Ganador QF-4"
+    }
+  ],
+  "thirdPlace": [
+    {
+      "id": "3P",
+      "home": "Perdedor SF-1",
+      "away": "Perdedor SF-2"
+    }
+  ],
+  "final": [
+    {
+      "id": "F",
+      "home": "Ganador SF-1",
+      "away": "Ganador SF-2"
+    }
+  ]
+}
