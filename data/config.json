@@ -1,0 +1,22 @@
+{
+  "stages": {
+    "roundOf32": {
+      "enabled": true
+    },
+    "roundOf16": {
+      "enabled": true
+    },
+    "quarterfinals": {
+      "enabled": true
+    },
+    "semifinals": {
+      "enabled": true
+    },
+    "thirdPlace": {
+      "enabled": true
+    },
+    "final": {
+      "enabled": true
+    }
+  }
+}
