@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Polla Mundialista 2026</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600;800&family=Inter:wght@400;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <header class="hero">
+    <div class="hero__inner">
+      <div class="brand">
+        <div class="brand__ball" aria-hidden="true"></div>
+        <h1>Polla Mundialista <span>2026</span></h1>
+      </div>
+      <p class="subtitle">Resultados, predicciones y puntos — estático para GitHub Pages</p>
+      <div class="search">
+        <label for="q">Buscar participante</label>
+        <input id="q" type="search" placeholder="Escribe un nombre o correo…" autocomplete="off" />
+        <button id="btnSearch" class="btn">Buscar</button>
+      </div>
+      <div class="summary" id="summary">
+        <div class="card">
+          <div class="card__title">Participante</div>
+          <div class="card__value" id="s_name">—</div>
+        </div>
+        <div class="card">
+          <div class="card__title">Puntos (partidos)</div>
+          <div class="card__value" id="s_match_pts">0</div>
+        </div>
+        <div class="card">
+          <div class="card__title">Bonus</div>
+          <div class="card__value" id="s_bonus">0</div>
+        </div>
+        <div class="card">
+          <div class="card__title">Total</div>
+          <div class="card__value" id="s_total">0</div>
+        </div>
+      </div>
+    </div>
+  </header>
+
+  <main class="container">
+    <section>
+      <h2>Partidos</h2>
+      <p class="muted">El tablero está listo para <strong>todos los partidos</strong> detectados desde el formulario. Los primeros 20 tienen marcadores finales ficticios de ejemplo.</p>
+      <div id="matches" class="matches"></div>
+    </section>
+
+    <section>
+      <h2>Bonus de clasificados</h2>
+      <details open>
+        <summary>Instrucciones</summary>
+        <ul>
+          <li>Completa <code>data/bonus_picks.json</code> con los equipos que cada participante eligió al inicio.</li>
+          <li>Actualiza <code>data/bonus_actual.json</code> con los clasificados reales por fase.</li>
+          <li>El sistema asigna: 2 pts (32), 5 pts (Octavos), 10 pts (Cuartos), 15 pts (Semifinal), 17 pts (3.º y 4.º), 20 pts (Final).</li>
+        </ul>
+      </details>
+      <div id="bonus" class="bonus"></div>
+    </section>
+  </main>
+
+  <footer class="footer">
+    <div class="container">
+      <span>Hecho para GitHub Pages · Estático · Mundial 2026</span>
+    </div>
+  </footer>
+
+  <script src="app.js"></script>
+</body>
+</html>
