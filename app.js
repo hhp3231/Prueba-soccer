@@ -1,1 +1,0 @@
-console.log("Placeholder - usa el paquete con stages");
